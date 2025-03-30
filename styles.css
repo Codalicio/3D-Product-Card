@@ -62,13 +62,12 @@ body {
     z-index: 1;
 }
 
-.product-image {
+.product-image img {
     width: 13rem;
     height: 13rem;
     background-color: lightgreen;
     border-radius: 50%;
     margin-bottom: 1.25rem;
-    background-image: url(./images/water_bottle.jpg);
 }
 
 h2 {
