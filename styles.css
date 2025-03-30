@@ -20,7 +20,7 @@ body {
 .card-container {
     width: 18.75rem;
     height: 25rem;
-    perspective: 1000px;
+    perspective: 62.5rem;
 }
 
 .card {
@@ -65,7 +65,7 @@ body {
 .product-image img {
     width: 13rem;
     height: 13rem;
-    background-color: lightgreen;
+    background-color: #90ee90;
     border-radius: 50%;
     margin: 1.25rem 0;
 }
