@@ -67,7 +67,7 @@ body {
     height: 13rem;
     background-color: lightgreen;
     border-radius: 50%;
-    margin-bottom: 1.25rem;
+    margin: 1.25rem 0;
 }
 
 h2 {
